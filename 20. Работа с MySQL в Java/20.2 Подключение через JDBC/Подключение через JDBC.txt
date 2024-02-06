@@ -1,0 +1,9 @@
+Описание
+Подключитесь к установленному на вашем компьютере SQL-серверу. Если вы его ещё не установили, самое время это сделать. Подробнее можно узнать в инструкции.
+Залейте на ваш локальный SQL-сервер готовый дамп базы данных, с которым предстоит работать. Инструкции для загрузки дампа: Windows, macOS.
+
+Ссылка на инструкцию -- https://skillbox-manuals.github.io/manuals/
+Ссылка на дамп данных -- https://drive.google.com/file/d/1A43LpEOA_ddO47ZoPV-ZwZOAQoqS8J_4/view
+
+Инструкция для загрузки дампа на Windows -- https://skillbox-manuals.github.io/manuals/docs/mysql-workbench-win-install/#6-%d0%b7%d0%b0%d0%b3%d1%80%d1%83%d0%b7%d0%ba%d0%b0-%d0%b4%d0%b0%d0%bc%d0%bf%d0%b0
+Инструкция для закгрузки дампа на macOS -- https://skillbox-manuals.github.io/manuals/docs/mysql-dbeaver-macos-install/#7-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0-%D0%B4%D0%B0%D0%BC%D0%BF%D0%B0-%D0%B2-%D0%B1%D0%B0%D0%B7%D1%83-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85
